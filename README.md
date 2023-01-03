@@ -1,7 +1,7 @@
 # OpenStack Train Installation Scripts Information
 Author: Kyle Wangsameteegoon
 
-These script files are meant to run once and currently tested on Centos 7 and RedHat 7. Variables will also need to be assigned inside each of these scripts. 
+These script files are meant to run once and currently tested on Centos 7 and RedHat 7. Variables will also need to be assigned inside each of these scripts. This can be used to test OpenStack Train. Default credentials can be changed with custom ones and variables for them may be added in the future. 
 
 ### When using RedHat 7, you may need to use this command depending on your subscription before installing any packages:
 ```
